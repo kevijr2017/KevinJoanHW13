@@ -1,0 +1,12 @@
+---
+title: "Hobbies"
+image: Bodybuilding.jpeg
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 25em
+---
+
+1.  Gym: I am a professional bodybuilder
+2.  Photography: I work for Sony
+3.  Gaming: I am sponsored by Faze gaming

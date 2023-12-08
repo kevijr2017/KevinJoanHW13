@@ -1,0 +1,31 @@
+---
+title: "Kevin Joan"
+image: IMG_2790.jpeg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 12em
+  links:
+    - icon: tiktok
+      text: Tiktok
+      href: https://www.tiktok.com/@joanscents?lang=en
+    - icon: envelope
+      text: Email
+      href: mailto:kevin.j2.rodriguez@ucdenver.edu
+---
+
+### Skills:
+* Fast Learner
+* Team Leader
+* Proficient Computer Knowledge
+
+### Education
+* Bachelor's degree @ CU Denver
+* 4.0 GPA in Mathematics Major
+* 4.0 GPA in High School
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "KevinJoanHW13"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Hobbies.qmd 
+
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+
+editor: visual
+
